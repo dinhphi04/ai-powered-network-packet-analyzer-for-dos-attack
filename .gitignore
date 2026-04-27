@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Model
+*.pkl
+
+# Dataset
+*.csv
+
+# Logs
+*.txt
+
+# Zip
+*.zip
+
+# Env
+.env
