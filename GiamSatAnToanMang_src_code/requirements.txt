@@ -1,0 +1,15 @@
+PyQt6
+PyQt6-WebEngine
+scapy
+matplotlib
+pandas
+psutil
+pyqt6-tools
+xgboost
+scikit-learn
+joblib
+numpy
+networkx
+plotly
+scipy
+requests
